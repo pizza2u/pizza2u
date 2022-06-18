@@ -2,8 +2,10 @@
  <img src= "https://readme-typing-svg.herokuapp.com?font=times&size=30&color=F7E50&background=0F09FF00&center=true&lines=Space%2C+the+final+frontier...">
 </p>
 
+<p align="center">
+  <img src="fun/spock-star-trek.gif" /> 
+</p>
 
-<img align="center"  height="200px" src="fun/spock-star-trek.gif">
 
 
 ### :robot: Linguagens que brinco :
