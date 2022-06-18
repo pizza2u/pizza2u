@@ -1,7 +1,7 @@
 <h1 align="center"> Olá </h1>
 
 <p align="center">
-  <img src="fun/spock-star-trek.gif" />
+  <img src="fun/spock-star-trek.gif" /> 
 </p>
 
 
@@ -16,3 +16,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 
+### :fire: My Stats :
