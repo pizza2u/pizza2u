@@ -35,7 +35,7 @@
 
 
 ### :email: Para contato : 
-<p align="left">
+<p align="center">
 <br>
 <a href="mailto:luvstaeil@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"></a>
 </p>
@@ -43,7 +43,7 @@
 <img align="right"  height="200px" src="fun/data-startrek.gif">
 
 ### :musical_note: Mais inutilidades:
-<p align="left">
+<p align="center">
 <br>
 <a href="https://open.spotify.com/user/thelittlesmurf?si=6a4774a1b9784228"><img src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg"></a>
 </p>
