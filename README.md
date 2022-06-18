@@ -1,4 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times&size=30&color=EAF711&background=0F09FF00&center=true&lines=Space%2C+the+final+frontier...)](https://git.io/typing-svg)
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times&size=30&color=EAF711&background=0F09FF00&center=true&lines=Space%2C+the+final+frontier...)](https://git.io/typing-svg)
+</p>
+
 
 <p align="center">
   <img src="fun/spock-star-trek.gif" /> 
