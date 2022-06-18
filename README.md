@@ -31,13 +31,13 @@
 </p>
 
 ### :email: Para contato: 
-<p align="center">
+<p align="left">
 <br>
 <a href="mailto:luvstaeil@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ### :musical_note: Mais inutilidades:
-<p align="center">
+<p align="left">
 <br>
 <a href="https://open.spotify.com/user/thelittlesmurf?si=6a4774a1b9784228"><img src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg"></a>
 </p>
