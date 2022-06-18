@@ -45,4 +45,4 @@
     </tbody>
 </table>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=thelittlesmurf&cover_image=true&theme=novatorem&bar_color=ffdd00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=thelittlesmurf&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=thelittlesmurf&cover_image=true&theme=default&bar_color_cover=false&bar_color=eeff00)](https://github.com/kittinan/spotify-github-profile)
