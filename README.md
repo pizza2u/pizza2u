@@ -35,6 +35,10 @@
 <table>
     <tbody>
             </a></td>
+            <td><a href="luvstaeil@gmai.com">
+            <img height="30" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"/>
+            </a></td>
+            </a></td>
             <td><a href="https://open.spotify.com/user/thelittlesmurf?si=6a4774a1b9784228">
             <img height="30" src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg"/>
             </a></td>
