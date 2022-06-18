@@ -35,7 +35,7 @@
 <table>
     <tbody>
             </a></td>
-            <td><a href="luvstaeil@gmai.com">
+            <td><a href="luvstaeil@gmail.com">
             <img height="30" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"/>
             </a></td>
             </a></td>
