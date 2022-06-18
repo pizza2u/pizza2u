@@ -17,26 +17,26 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   
   
- #### :floppy_disk: Mais usadas :
+ ### :floppy_disk: Mais usadas :
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2u&layout=compact&theme=vision-friendly-dark" /> 
 </p>
 
 
-#### :computer: Situação :
+### :computer: Situação :
 
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=pizza2u&theme=gruvbox_duo&date_format=M%20j%5B%2C%20Y%5D&background=0C0D4E)](https://git.io/streak-stats)" /> 
 </p>
 
-#### :email: Para contato : 
+### :email: Para contato : 
 <p align="left">
 <br>
 <a href="mailto:luvstaeil@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"></a>
 </p>
 
-#### :musical_note: Mais inutilidades:
+### :musical_note: Mais inutilidades:
 <p align="left">
 <br>
 <a href="https://open.spotify.com/user/thelittlesmurf?si=6a4774a1b9784228"><img src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg"></a>
