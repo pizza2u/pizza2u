@@ -1,3 +1,6 @@
 <h1 align="center"> Olá </h1>
 
-<img align=right width=300 ="spock-star-trek.gif" />
+
+<p align=right>
+<img width=150 src="spock-star-trek.gif" />
+</p>
