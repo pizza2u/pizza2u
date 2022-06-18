@@ -41,6 +41,7 @@
 </p>
 
 <img align="right"  height="200px" src="fun/data-startrek.gif">
+
 ### :musical_note: Mais inutilidades:
 <p align="left">
 <br>
