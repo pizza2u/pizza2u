@@ -30,21 +30,15 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=pizza2u&theme=gruvbox_duo&date_format=M%20j%5B%2C%20Y%5D&background=0C0D4E)](https://git.io/streak-stats)" /> 
 </p>
 
-### :musical_note: Mais inutilidades:
-
-![gmail][(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(luvstaeil@gmail.com)]
-<table>
-    <tbody>
-            </a></td>
-            <td><a href="https://open.spotify.com/user/thelittlesmurf?si=6a4774a1b9784228">
-            <img height="30" src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg"/>
-            </a></td>
-    </tbody>
-</table>
-
+### :email: Para contato: 
 <p align="center">
 <br>
 <a href="mailto:luvstaeil@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
+
+### :musical_note: Mais inutilidades:
+<p align="center">
+<br>
 <a href="https://open.spotify.com/user/thelittlesmurf?si=6a4774a1b9784228"><img src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg"></a>
 </p>
 
