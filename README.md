@@ -30,5 +30,5 @@
 
 
 ### :musical_note: Mais inutilidades:
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=thelittlesmurf&cover_image=true&theme=novatorem&bar_color=0109e9&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=thelittlesmurf&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=thelittlesmurf&cover_image=true&theme=default&bar_color=ffdd00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=thelittlesmurf&redirect=true)
 https://open.spotify.com/user/thelittlesmurf?si=6a4774a1b9784228
