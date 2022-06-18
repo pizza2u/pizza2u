@@ -33,7 +33,6 @@
   <img src="http://github-readme-streak-stats.herokuapp.com?user=pizza2u&theme=gruvbox_duo&date_format=M%20j%5B%2C%20Y%5D&background=0C0D4E)](https://git.io/streak-stats)" /> 
 </p>
 
-<img align="right"  height="200px" src="fun/data-startrek.gif">
 
 ### :email: Para contato : 
 <p align="left">
@@ -41,6 +40,7 @@
 <a href="mailto:luvstaeil@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"></a>
 </p>
 
+<img align="right"  height="200px" src="fun/data-startrek.gif">
 ### :musical_note: Mais inutilidades:
 <p align="left">
 <br>
