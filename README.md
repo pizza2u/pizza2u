@@ -3,9 +3,7 @@
 </p>
 
 
-<p align="center">
-  <img src="fun/spock-star-trek.gif" /> 
-</p>
+<img align="center"  height="200px" src="fun/spock-star-trek.gif">
 
 
 ### :robot: Linguagens que brinco :
