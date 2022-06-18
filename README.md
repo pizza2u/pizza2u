@@ -44,7 +44,7 @@
 
 <p align="center">
 <br>
-<a href="mailto:luvstaeil@gmail.com"><img src="https://img.shields.io/badge/durgeshmahajan1722%40gmail.com-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:luvstaeil@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://open.spotify.com/user/thelittlesmurf?si=6a4774a1b9784228"><img src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg"></a>
 </p>
 
