@@ -15,12 +15,21 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  
+  
+ ### :floppy_disk: Mais usadas :
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2u&layout=compact&theme=vision-friendly-dark" /> 
+</p>
+
 
 ### :computer: Situação :
 
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=pizza2u&theme=gruvbox_duo&date_format=M%20j%5B%2C%20Y%5D&background=0C0D4E)](https://git.io/streak-stats)" /> 
 </p>
+
 
 ### :musical_note: Mais inutilidades:
 <table>
@@ -31,15 +40,5 @@
             </a></td>
     </tbody>
 </table>
-
-
-### :floppy_disk: Mais usadas :
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2u&layout=compact&theme=vision-friendly-dark" /> 
-</p>
-
-
-
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=thelittlesmurf&cover_image=true&theme=novatorem&bar_color=ffdd00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=thelittlesmurf&redirect=true)
