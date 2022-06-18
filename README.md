@@ -27,3 +27,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2u&layout=compact&theme=vision-friendly-dark" /> 
 </p>
+
+
+### :musical_note: Mais inutilidades:
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=thelittlesmurf&cover_image=true&theme=novatorem&bar_color=0109e9&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=thelittlesmurf&redirect=true)
+https://open.spotify.com/user/thelittlesmurf?si=6a4774a1b9784228
