@@ -23,7 +23,8 @@
 </p>
 
 ### :floppy_disk: Mais usadas :
+
 <p align="center">
-  <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2u&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)" /> 
+  <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2u&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)"/> 
 </p>
 
