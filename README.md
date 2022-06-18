@@ -24,9 +24,6 @@
 
 ### :floppy_disk: Mais usadas :
 
-  ![Receba](https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2u&layout=compact&theme=vision-friendly-dark)
-
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2u&layout=compact&theme=vision-friendly-dark" /> 
 </p>
