@@ -31,6 +31,8 @@
 </p>
 
 ### :musical_note: Mais inutilidades:
+
+![gmail][(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)(luvstaeil@gmail.com)]
 <table>
     <tbody>
             </a></td>
