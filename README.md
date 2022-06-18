@@ -32,7 +32,7 @@
 ### :musical_note: Mais inutilidades:
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2u&layout=compact&theme=vision-friendly-dark](https://spotify-github-profile.vercel.app/api/view?uid=thelittlesmurf&cover_image=true&theme=default&bar_color=ffdd00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=thelittlesmurf&redirect=true))" /> 
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2u&layout=compact&theme=vision-friendly-dark" /> 
 </p>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=thelittlesmurf&cover_image=true&theme=default&bar_color=ffdd00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=thelittlesmurf&redirect=true)
 https://open.spotify.com/user/thelittlesmurf?si=6a4774a1b9784228
