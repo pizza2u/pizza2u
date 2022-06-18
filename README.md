@@ -35,7 +35,7 @@
 <table>
     <tbody>
             </a></td>
-            <td><a href= "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white(mailto:simao.stephanie@hotmail.com?subject=[GitHub]%20Acabei%20de%20ver%20o%20seu%20GitHub)">
+            <td><a href= "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=google-gmail&logoColor=white(mailto:simao.stephanie@hotmail.com?subject=[GitHub]%20Acabei%20de%20ver%20o%20seu%20GitHub)">
             <img height="30" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg"/>
             </a></td>
             </a></td>
