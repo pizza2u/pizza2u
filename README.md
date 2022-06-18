@@ -41,4 +41,5 @@
 <br>
 <a href="https://open.spotify.com/user/thelittlesmurf?si=6a4774a1b9784228"><img src="https://www.vectorlogo.zone/logos/spotify/spotify-ar21.svg"></a>
 </p>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=thelittlesmurf&cover_image=true&theme=default&bar_color_cover=false&bar_color=eeff00)](https://github.com/kittinan/spotify-github-profile)
