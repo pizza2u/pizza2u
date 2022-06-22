@@ -39,7 +39,7 @@
 
 
 <img align="right"  height="250rem" src="fun/data-startrek.gif">
->pode-se usar px ou rem para tamanhos no css, recomenda-se rem
+<!---pode-se usar px ou rem para tamanhos no css, recomenda-se rem-->
 ### :musical_note: Inutilidades:
 <p align="left"> 
 <br>
