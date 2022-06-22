@@ -38,7 +38,7 @@
  [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:luvstaeil@gmail.com?subject=[GitHub]%20Acabei%20de%20ver%20o%20seu%20GitHub)
 
 
-<img align="right"  height="200px" src="fun/data-startrek.gif">
+<img align="right"  height="200rem" src="fun/data-startrek.gif">
 
 ### :musical_note: Inutilidades:
 <p align="left"> 
