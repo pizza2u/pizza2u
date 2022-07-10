@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="fun/spock-star-trek.gif" /> 
+  <img src="fun/spock-computer.gif" /> 
 </p>
 
 #
