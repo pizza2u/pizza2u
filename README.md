@@ -25,14 +25,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2u&layout=compact&theme=vision-friendly-dark" /> 
 </p>
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pizza2u&theme=dark-smoky&hide_border=true)](https://git.io/streak-stats)
 
 ### :computer: Situação :
 
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=pizza2u&theme=dark-smoky&hide_border=true(https://git.io/streak-stats)" /> 
 </p>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pizza2u&theme=dark-smoky&hide_border=true)](https://git.io/streak-stats)
+
 #
 ### :email: Para contato : 
  [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:luvstaeil@gmail.com?subject=[GitHub]%20Acabei%20de%20ver%20o%20seu%20GitHub)
