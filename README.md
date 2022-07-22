@@ -23,7 +23,7 @@
  ### :floppy_disk: Mais usadas :
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2u&theme=radical&layout=highcontrast"" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2u&theme=radical&layout=compact"" /> 
 </p>
 
 ### :computer: Situação :
