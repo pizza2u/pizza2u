@@ -21,9 +21,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
   
  ### :floppy_disk: Mais usadas :
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2u&theme=tokyonight)
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2u&theme=friendly-dark" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2u&theme=tokyonight" /> 
 </p>
 
 ### :computer: Situação :
