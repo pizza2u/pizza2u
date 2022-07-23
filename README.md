@@ -27,9 +27,9 @@
 </p>
 
 ### :computer: Situação :
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pizza2u&theme=nightowl&locale=pt-br)](https://git.io/streak-stats)
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=pizza2u&theme=dark-smoky&hide_border=true(https://git.io/streak-stats)" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pizza2u&theme=nightowl&locale=pt-br(https://git.io/streak-stats)" /> 
 </p>
 
 #
