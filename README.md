@@ -27,9 +27,9 @@
 </p>
 
 ### :computer: Situação :
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pizza2u&theme=onedark_duo&date_format=M%20j%5B%2C%20Y%5D&locale=pt-br)](https://git.io/streak-stats)
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pizza2u&theme=nightowl&locale=pt-br(https://git.io/streak-stats)" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pizza2u&theme=onedark_duo&date_format=M%20j%5B%2C%20Y%5D&locale=pt-br(https://git.io/streak-stats)" /> 
 </p>
 
 #
