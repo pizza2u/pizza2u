@@ -27,7 +27,7 @@
 </p>
 
 ### :computer: Situação :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pizza2u&theme=nightowl&locale=pt-br)(https://git.io/streak-stats){ width="800" height="600" style="display: block; margin: 0 auto" }
+[![GitHub Streak]((https://github-readme-streak-stats.herokuapp.com?user=pizza2u&theme=nightowl&locale=pt-br)(https://git.io/streak-stats)){ width="800" height="600" style="display: block; margin: 0 auto" }
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=pizza2u&theme=nightowl&locale=pt-br(https://git.io/streak-stats)" /> 
 </p>
