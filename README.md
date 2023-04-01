@@ -31,10 +31,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=pizza2u&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D&locale=pt-br(https://git.io/streak-stats)" /> 
 </p>
 
-#
-### :email: Para contato : 
- [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white)](mailto:luvstaeil@gmail.com?subject=[GitHub]%20Acabei%20de%20ver%20o%20seu%20GitHub)
-
 
 <img align="right" src="fun/data-startrek.gif" width="350">
 <!---pode-se usar px ou rem para tamanhos no css, recomenda-se rem-->
