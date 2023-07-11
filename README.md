@@ -28,7 +28,7 @@
 ### :computer: Situação:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pizza2u&theme=tokyonight-duo&hide_border=true&border_radius=4.2&date_format=M%20j%5B%2C%20Y%5D(https://git.io/streak-stats)" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pizza2u&theme=tokyonight-duo&hide_border=true&border_radius=4.2&date_format=M%20j%5B%2C%20Y%5D" /> 
 </p>
 
 
