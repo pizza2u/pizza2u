@@ -21,7 +21,8 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" alt="Raspberry Pi" width="40" height="40"/>&nbsp;
    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-
+   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
+   
  ### :floppy_disk: Mais usadas:
 
 <p align="center">
