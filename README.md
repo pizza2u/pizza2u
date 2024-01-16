@@ -31,9 +31,7 @@
 
 ### :computer: Situação:
 
-<p align="center">
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pizza2u&theme=dark&border_radius=3&date_format=M%20j%5B%2C%20Y%5D&mode=weekly" alt="GitHub Streak" /></a>
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pizza2u&theme=dark&border_radius=3&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
 
 <img align="right" src="fun/data-startrek.gif" width="350">
