@@ -29,10 +29,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2u&theme=highcontrast&layout=compact" /> 
 </p>
 
-### :computer: Situação:
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pizza2u&theme=dark&border_radius=3&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-
 
 <img align="right" src="fun/data-startrek.gif" width="350">
 <!---pode-se usar px ou rem para tamanhos no css, recomenda-se rem-->
