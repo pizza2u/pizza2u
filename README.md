@@ -31,9 +31,6 @@
 </p>
 
 
-<img align="right" src="fun/data-startrek.gif" width="350">
-<!---pode-se usar px ou rem para tamanhos no css, recomenda-se rem-->
-
 ### :musical_note: Inutilidades:
 <p align="left"> 
 <br>
