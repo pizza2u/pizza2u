@@ -35,7 +35,8 @@
 <p align="center"> 
 <br>
 <a href="https://open.spotify.com/user/thelittlesmurf?si=6a4774a1b9784228"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=thelittlesmurf&cover_image=true&theme=default&bar_color_cover=false&bar_color=eeff00)](https://github.com/kittinan/spotify-github-profile)
 </p>
+
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=thelittlesmurf&cover_image=true&theme=default&bar_color_cover=false&bar_color=eeff00)](https://github.com/kittinan/spotify-github-profile)
 
 
