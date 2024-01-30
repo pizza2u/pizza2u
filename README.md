@@ -46,8 +46,8 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=thelittlesmurf&cover_image=true&theme=compact&show_offline=false&background_color=000000&interchange=true" alt="spotify-github-profile">
+  <a href="https://spotify-github-profile.vercel.app/api/view.svg?uid=thelittlesmurf&redirect=true">
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=thelittlesmurf&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=00b862&bar_color_cover=false">
   </a>
 </div>
 
