@@ -45,7 +45,7 @@
   </a>
 </div>
 
-<div align="center">
+
  [[https://spotify-github-profile.vercel.app/api/view.svg?uid=thelittlesmurf&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=thelittlesmurf&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color=00b862&bar_color_cover=false)]]
-</div>
+
 
