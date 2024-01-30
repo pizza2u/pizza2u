@@ -43,7 +43,7 @@
   <a href="https://open.spotify.com/user/thelittlesmurf?si=6a4774a1b9784228">
     <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
   </a>
-   <a href="
+ 
 </div>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=thelittlesmurf&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=aeeace&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
