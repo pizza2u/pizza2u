@@ -45,4 +45,4 @@
   </a>
 </div>
 
-[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=thelittlesmurf&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=00b862&bar_color_cover=false)]]
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=thelittlesmurf&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=true&bar_color=00b862&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
