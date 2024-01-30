@@ -6,7 +6,7 @@
   <img src="fun/spock-computer.gif" width="450"/> 
 </p>
 
-#
+
 
 ### :robot: Brincadeiras:
 <div align="center">
@@ -25,7 +25,8 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
  <img  src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
    </div>
- ### :floppy_disk: Mais usadas:
+   
+ ###  :floppy_disk: Mais usadas:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2u&theme=highcontrast&layout=compact" /> 
