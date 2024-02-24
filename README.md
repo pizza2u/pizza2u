@@ -2,11 +2,6 @@
  <img src= "https://readme-typing-svg.herokuapp.com?font=times&size=30&color=FFFF00&background=0F09FF00&center=true&lines=Space%2C+the+final+frontier...">
 </p>
 
-<p align="center">
-  <img src="fun/spock-computer.gif" width="450"/> 
-</p>
-
-
 
 ### :robot: Brincadeiras:
 <div align="center">
