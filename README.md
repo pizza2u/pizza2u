@@ -32,7 +32,7 @@
 
 
 
-### :musical_note: Inutilidades:
+### :musical_note: No ouvido:
 
 <div align="center">
   <a href="https://open.spotify.com/user/thelittlesmurf?si=6a4774a1b9784228">
