@@ -42,6 +42,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2u&theme=highcontrast&layout=compact" /> 
 </p>
 
+### Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sara.victoria1310@gmail.com)
 
 
 ### :musical_note: No ouvido:
