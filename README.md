@@ -4,7 +4,7 @@
 
 
 ### :robot: Tech Stack:
-<div align="center">
+
  
 #### Languages
 
@@ -37,7 +37,7 @@
 #### OS
  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"  />&nbsp;
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />&nbsp;
-   <img src=" https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"  />&nbsp;
+  <img src=" https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"  />&nbsp;
   <img src=" https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;
  
 
@@ -46,8 +46,6 @@
    
   <img src=" https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;
 
- 
-   </div>
    
  ###  :floppy_disk: Mais usadas:
 
