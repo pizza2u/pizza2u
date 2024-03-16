@@ -50,7 +50,7 @@
    
  ###  :floppy_disk: Most Used:
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2u&theme=highcontrast&layout=compact" /> 
 </p>
 
