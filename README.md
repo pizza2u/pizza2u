@@ -58,7 +58,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-nobregaa)
 
 
-<img src="https://komarev.com/ghpvc/?username=pizza2u&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=pizza2u&style=flat-square&color=purple" alt=""/>
 
 ### :musical_note: No ouvido:
 
