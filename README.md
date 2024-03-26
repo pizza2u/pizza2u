@@ -3,7 +3,7 @@
 </p>
 
 
-### :robot: Tech Stack:
+### :robot: Tech Stack (in mind and studying):
 
  
 #### Languages
