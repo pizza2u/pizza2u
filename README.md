@@ -59,7 +59,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=pizza2u&style=flat-square&color=red" alt=""/>
 
-### :musical_note: No ouvido:
+### :musical_note: In ear:
 
 <div align="left">
  <p>Follow me in </p>
