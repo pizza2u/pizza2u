@@ -2,6 +2,7 @@
  <img src= "https://readme-typing-svg.herokuapp.com?font=times&size=30&color=FFFF00&background=0F09FF00&center=true&lines=Space%2C+the+final+frontier...">
 </p>
 
+#### Hello, I'm Sara, an electrical engineering student who works regularly in the area of ​​data, image and signal processing. I like programming, manipulating and analyzing data, as well as getting involved in the area of ​​embedded systems and web development.
 
 ### :robot: Tech Stack (in mind and studying):
 
