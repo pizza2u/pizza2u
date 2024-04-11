@@ -3,7 +3,7 @@
 </p>
 
 <p align="center" style="font-size: 18px;">
-  Hi there! I'm Sara, an electrical engineering student deeply passionate about data, image, and signal processing. With a knack for programming, I thrive on analyzing and manipulating data to uncover valuable insights. My interests extend to embedded systems, AI, and web development, where I enjoy leveraging my skills to tackle diverse challenges and innovate solutions.
+  Hi there! I'm Sara, an electrical engineering student deeply passionate about data, image, and signal processing. With a knack for programming, I thrive on analyzing and manipulating data to uncover valuable insights. My interests extend to embedded systems,smart grid, AI, and web development, where I enjoy leveraging my skills to tackle diverse challenges and innovate solutions.
 </p>
 
 
