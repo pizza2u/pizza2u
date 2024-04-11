@@ -2,7 +2,7 @@
  <img src= "https://readme-typing-svg.herokuapp.com?font=times&size=30&color=FFFF00&background=0F09FF00&center=true&lines=Space%2C+the+final+frontier...">
 </p>
 
-#### Hello, I'm Sara, an electrical engineering student who works regularly in the area of ​​data, image and signal processing. I like programming, manipulating and analyzing data, as well as getting involved in the area of ​​embedded systems and web development.
+#### Hi there! I'm Sara, an electrical engineering student deeply passionate about data, image, and signal processing. With a knack for programming, I thrive on analyzing and manipulating data to uncover valuable insights. My interests extend to embedded systems, AI, and web development, where I enjoy leveraging my skills to tackle diverse challenges and innovate solutions.
 
 ### :robot: Tech Stack (in mind and studying):
 
