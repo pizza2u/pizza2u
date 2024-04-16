@@ -60,6 +60,8 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sara.victoria1310@gmail.com)
 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram/pizz5a)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-nobregaa)
 
 <img src="https://github.com/pizza2u/pizza2u/blob/main/fun/qr.png" title="QRCode" alt="QRCode" width="90" height="90" />
