@@ -56,6 +56,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2u&theme=highcontrast&layout=compact" /> 
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?pizza2u=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sara.victoria1310@gmail.com)
