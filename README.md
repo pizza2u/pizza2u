@@ -7,7 +7,7 @@
 </p>
 
 
-### :robot: Tech Stack (in mind and studying):
+## * :robot: Tech Stack (in mind and studying):
 
  
 #### Languages
@@ -50,11 +50,11 @@
    <img src="https://camo.githubusercontent.com/17581e3e5b3bf01f7bdbd9814308f06fb90a0dca860d4fce29531485278808b8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744c61622d3333304636333f7374796c653d666f722d7468652d6261646765266c6f676f3d6769746c6162266c6f676f436f6c6f723d7768697465"  />&nbsp;
 
    
- ###  :floppy_disk: Most Used:
+## *  :floppy_disk: Most Used:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2u&theme=highcontrast&hide_progress=true)
 
-### Contact
+## * Contact
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sara.victoria1310@gmail.com)
 
@@ -64,7 +64,7 @@
         
 <img src="https://github.com/pizza2u/pizza2u/blob/main/fun/qr.png" title="QRCode" alt="QRCode" width="90" height="90" />
 
-### :musical_note: In ear:
+## * :musical_note: In ear:
 
 <div align="left">
  <p>Follow me in </p>
