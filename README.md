@@ -53,7 +53,7 @@
  ###  :floppy_disk: Most Used:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2u&theme=highcontrast&layout=compact" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2u&theme=highcontrast&layout=donut" /> 
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2u&theme=highcontrast&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
