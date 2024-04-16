@@ -7,7 +7,7 @@
 </p>
 
 
-## *:robot: Tech Stack (in mind and studying):
+## *:robot: Tech Stack (in mind and studying):*
 
  
 #### Languages
