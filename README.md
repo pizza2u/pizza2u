@@ -91,7 +91,7 @@
 <details>
   <summary>Games and consoles</summary>
 
- > <img src="https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white" />&nbsp;
  
    <img src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white"  />&nbsp;
    
