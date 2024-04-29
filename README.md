@@ -116,9 +116,9 @@
         
 <img src="https://github.com/pizza2u/pizza2u/blob/main/fun/qr.png" title="QRCode" alt="QRCode" width="90" height="90" />
 
-## *languages*
+## *🗣️ Languages*
 
-🇧🇷:
+🇧🇷: 🇧🇷
 
 🇺🇸:
 
