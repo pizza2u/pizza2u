@@ -57,7 +57,7 @@
 
  
  <details>
- <summary>Artificial Intelligence Tools</summary>
+ <summary>ML and DL Frameworks</summary>
  
 >  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" title="TensorFlow"  />&nbsp;
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" title="Pytorch" />&nbsp;
