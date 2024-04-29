@@ -55,6 +55,16 @@
 
  </details> 
 
+ 
+ <details>
+ <summary>Artificial Intelligence Tools</summary>
+ 
+>  <img src="	https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" title="TensorFlow"  />&nbsp;
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" title="Pytorch" />&nbsp;
+  <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" title="Keras" />&nbsp;>
+> 
+</details>
+
 <details>
  <summary>OS</summary>
  
@@ -62,16 +72,6 @@
   <img src="https://camo.githubusercontent.com/c292429e232884db22e86c2ea2ea7695bc49dc4ae13344003a95879eeb7425d8/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f57696e646f77732d3030373844363f7374796c653d666f722d7468652d6261646765266c6f676f3d77696e646f7773266c6f676f436f6c6f723d7768697465"  />&nbsp;
 
  </details> 
-
- <details>
- <summary>Artificial Intelligence Tools</summary>
- 
-> <img src="	https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" title="TensorFlow"  />&nbsp;
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" title="Pytorch" />&nbsp;
- <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" title="Keras" />&nbsp;
-
-
-</details>
 
 <details>
  <summary>Others</summary>
