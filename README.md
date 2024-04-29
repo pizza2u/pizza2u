@@ -10,7 +10,7 @@
 ## *:robot: Tech Stack (in mind and studying):*
 
 <details>
-  <summary>Languagues</summary>
+  <summary>Programming Languagues</summary>
 
  > <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" title="JavaScript" alt="JavaScript"/>&nbsp;
    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"  />&nbsp;
@@ -106,7 +106,28 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2u&theme=highcontrast&hide_progress=true)
 
-## *🎲: My games:*
+## *Contact*
+
+> [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sara.victoria1310@gmail.com)
+
+> [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pizz5a/)
+
+> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-nobregaa)
+        
+<img src="https://github.com/pizza2u/pizza2u/blob/main/fun/qr.png" title="QRCode" alt="QRCode" width="90" height="90" />
+
+## *languages*
+
+🇧🇷:
+
+🇺🇸:
+
+🇫🇷:
+
+🇰🇷:
+
+
+## *🎲 My games:*
 
 <details>
   <summary>Games and consoles</summary>
@@ -119,15 +140,7 @@
 
 </details>
 
-## *Contact*
 
-> [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sara.victoria1310@gmail.com)
-
-> [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pizz5a/)
-
-> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-nobregaa)
-        
-<img src="https://github.com/pizza2u/pizza2u/blob/main/fun/qr.png" title="QRCode" alt="QRCode" width="90" height="90" />
 
 ## *:musical_note: In ear:*
 
