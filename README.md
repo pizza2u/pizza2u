@@ -76,7 +76,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2u&theme=highcontrast&hide_progress=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2u&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## *Contact*
 
