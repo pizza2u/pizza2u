@@ -147,4 +147,6 @@
   </a>
 </div>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=thelittlesmurf&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=aeeace&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+&nbsp;<div align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/thelittlesmurf)
+</div>
