@@ -94,6 +94,9 @@
   <img src="https://camo.githubusercontent.com/c3fce77a4419f39b811e89bf426873c4187e191912cb38f9a9dd8a2bc148beb1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f74657061642b2b2d3930453539412e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f7465706164253242253242266c6f676f436f6c6f723d626c61636b" />&nbsp;
    <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" />&nbsp;
    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"  />&nbsp;
+   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"  />&nbsp;
+
+
    
  </details> 
 
