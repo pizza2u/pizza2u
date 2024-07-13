@@ -151,3 +151,5 @@
    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
   </a>
 </div>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=thelittlesmurf&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
