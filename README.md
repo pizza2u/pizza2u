@@ -48,7 +48,7 @@
  </details>    
 
  <details>
- <summary>DataBase</summary>
+ <summary>Data Base</summary>
 
  > <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" title="Postgresql" alt="Postgresql"/>&nbsp;  
  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" title="MySQL" alt="MySQL" />&nbsp;
@@ -64,7 +64,7 @@
 
  </details> 
 
- 
+ <!--
  <details>
  <summary>ML and DL Frameworks</summary>
  
@@ -81,7 +81,7 @@
   <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"  />&nbsp;
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />&nbsp;
 
-</details>
+</details>-->
 
 <details>
  <summary>OS</summary>
