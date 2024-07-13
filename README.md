@@ -40,11 +40,12 @@
 
  </details>    
 
- <details>
+<details>
  <summary>Data Visualization</summary>
->   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" title="Powerbi" alt="Powerbi" />&nbsp;
- <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" title="Tableau" alt="Tableau" />&nbsp; 
-  </details>    
+ 
+>  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" title="Powerbi" alt="Powerbi" />&nbsp;
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" title="Tableau" alt="Tableau" />&nbsp; 
+ </details>    
 
  <details>
  <summary>DataBase</summary>
