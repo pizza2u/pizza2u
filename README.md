@@ -111,7 +111,7 @@
    
 ## *:floppy_disk: Most Used:*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2u&layout=compact)
 
 ## *📧 Contact*
 
