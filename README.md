@@ -37,10 +37,14 @@
     <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" title="NodeJS" alt="NodeJS" />&nbsp;
      <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" title="Django" alt="Django" />&nbsp;
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" title="React" alt="React" />&nbsp;
-    <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" title="Powerbi" alt="Powerbi" />&nbsp;
- <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" title="Tableau" alt="Tableau" />&nbsp; 
 
  </details>    
+
+ <details>
+ <summary>Framkeworks & Tools</summary>
+>   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" title="Powerbi" alt="Powerbi" />&nbsp;
+ <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" title="Tableau" alt="Tableau" />&nbsp; 
+  </details>    
 
  <details>
  <summary>DataBase</summary>
