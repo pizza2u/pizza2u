@@ -132,7 +132,7 @@
 
 🇧🇷 *Native* | 🇺🇸 *B2* | 🇫🇷 *A2* | 🇰🇷 *A2*
 
-
+ <!--
 ## *🎲 My games:*
 
 <details>
@@ -142,7 +142,7 @@
    
    <img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white"  />&nbsp;
 
-</details>
+</details>-->
 
 
 
