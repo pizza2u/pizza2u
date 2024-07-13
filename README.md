@@ -146,8 +146,7 @@
 ## *:musical_note: In ear:*
 
 <div align="left">
- <p>Follow me in </p>
-  <a href="https://open.spotify.com/user/thelittlesmurf?si=6a4774a1b9784228">
+ <p>Follow me in: </p> <a href="https://open.spotify.com/user/thelittlesmurf?si=6a4774a1b9784228">
    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
   </a>
 </div>
