@@ -81,6 +81,7 @@
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />&nbsp;
 
 </details>-->
+
 <details>
  <summary>OS</summary>
  
