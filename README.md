@@ -2,6 +2,7 @@
  <img src= "https://readme-typing-svg.herokuapp.com?font=times&size=30&color=FFFF00&background=0F09FF00&center=true&lines=We+have+only+now">
 </p>
 
+
 <p align="center" style="font-size: 18px;">
   Hi there! I'm an electrical engineering student deeply passionate about data, image, and signal processing and machine learning. With a knack for programming, I thrive on analyzing and manipulating data to uncover valuable insights. My interests extend to data science, AI, and development, where I enjoy leveraging my skills to tackle diverse challenges and innovate solutions.
  
