@@ -20,7 +20,6 @@
 
 </details>
 
-
 <details>
  <summary>Marking and styling technologies</summary>
  
