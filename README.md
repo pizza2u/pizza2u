@@ -118,7 +118,10 @@
    
 ## *:floppy_disk: Most Used:*
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pizza2u&hide=javascript,css,scss,html&theme=tokyonight)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/pizza2u?theme=dark">
+  <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/pizza2u">
+</picture>
 
 ## *📧 Contact*
 
