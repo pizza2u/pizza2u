@@ -117,7 +117,6 @@
  </details> 
    
 ## *:floppy_disk: Most Used:*
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-used-languages.vercel.app/pizza2u?theme=dark">
   <img alt="Most Used Languages'" src="https://github-used-languages.vercel.app/pizza2u">
